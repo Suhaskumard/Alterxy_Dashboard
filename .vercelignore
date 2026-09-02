@@ -1,0 +1,5 @@
+*.md
+*.csv
+*.py
+memory/
+alteryx-advanced-tracker.html
